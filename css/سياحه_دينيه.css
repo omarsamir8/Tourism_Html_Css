@@ -1,0 +1,54 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+img {
+  width: 350px;
+  height: 300px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+p {
+  width: 350px;
+  font-size: 20px;
+}
+.one {
+  display: flex;
+  justify-content: space-around;
+}
+.two {
+  display: flex;
+  justify-content: space-around;
+}
+.three {
+  display: flex;
+  justify-content: space-around;
+}
+.four {
+  display: flex;
+  justify-content: space-around;
+}
+.five {
+  display: flex;
+  justify-content: space-around;
+}
+.six {
+  display: flex;
+  justify-content: space-around;
+}
+.seven {
+  display: flex;
+  justify-content: space-around;
+}
+.eight {
+  display: flex;
+  justify-content: space-around;
+}
+b {
+  background-color: rgb(247, 197, 122);
+  font-size: 20px;
+}

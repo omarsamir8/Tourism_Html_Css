@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  background-color: bisque;
+}
+img {
+  width: 390px;
+  height: 300px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.one {
+  display: flex;
+  justify-content: space-around;
+}
+.two {
+  display: flex;
+  justify-content: space-around;
+}
+p {
+  width: 390px;
+  font: bold;
+  font-size: 20px;
+}
+.six {
+  display: flex;
+  justify-content: space-around;
+}
+.seven {
+  display: flex;
+  justify-content: space-around;
+}
+.eleven {
+  display: flex;
+  justify-content: space-around;
+}
+.twelve {
+  display: flex;
+  justify-content: space-around;
+}
+b {
+  font-size: 20px;
+  background-color: rgb(243, 155, 92);
+}
